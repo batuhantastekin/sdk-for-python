@@ -1,4 +1,4 @@
-##Don't forget to update "pip"
+#Don't forget to update "pip"
 
 - Download [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 - Open a command prompt and navigate to the folder containing get-pip.py
@@ -6,4 +6,4 @@
   'python get-pip.py'
 - Pip is now installed!
 
-##Then try to install appwrite again!
+#Then try to install appwrite again!
